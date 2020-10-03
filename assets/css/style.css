@@ -1,0 +1,28 @@
+.table{
+	border: 1px;
+	align-content: center;
+	align-items: center;
+	text-align: center;
+	margin: 50px 0 10px 0;
+	padding: 50px;
+}
+
+.mantap{
+	font-size: 28px;
+}
+
+footer{
+	display: inherit;
+	padding: 30px;
+	margin-top: 40px;
+	flex-flow: row;
+	color: white;
+	background: #011c39;
+	align-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+.centt{
+	text-align: center;
+}
